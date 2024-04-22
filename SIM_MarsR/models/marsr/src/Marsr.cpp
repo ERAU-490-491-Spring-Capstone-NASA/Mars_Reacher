@@ -9,7 +9,7 @@ LIBRARY DEPENDENCY:
 #include <iostream>
 
 // Constants
-const double g_0 = -1.62; // Standard gravity on Mars at a reference altitude
+const double g_0 = -1.62; // Standard gravity on Moon at a reference altitude
 const double r_0 = 1737.0e3; // Moon's mean radius in meters
 
 int Marsr::default_data() {
